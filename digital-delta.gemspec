@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "digital-delta"
+  spec.name          = "jekyll-theme-digital-delta"
   spec.version       = "0.1.0"
   spec.authors       = ["Bruce Becker"]
   spec.email         = ["brucellino@protonmail.com"]
